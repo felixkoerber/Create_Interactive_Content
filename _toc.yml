@@ -1,0 +1,30 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: Why are we here?
+  chapters:
+  - file: Motivation
+- caption: Getting started
+  chapters:
+  - file: Demo_website
+  - file: setup/setup
+- caption: Practical guidance  
+  - file: course_template
+  - file: 10min
+- caption: Miscellaneous 
+  chapters:
+  - file: ressources/info
+    sections:
+    - file: ressources/CoC
+    - file: ressources/dei
+    - file: ressources/open_science
+- caption: Course Examples
+  chapters:
+  - file: intro/demo
+    sections:
+    - url: https://peerherholz.github.io/Cog_Com_Neuro_ML_DL/
+    - url: https://peerherholz.github.io/Python_for_Psychologists_Winter2021
+
