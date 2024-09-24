@@ -11,7 +11,8 @@ parts:
   chapters:
   - file: Demo_website
   - file: setup/setup
-- caption: Practical guidance  
+- caption: Practical guidance
+  chapters:
   - file: course_template
   - file: 10min
 - caption: Miscellaneous 
